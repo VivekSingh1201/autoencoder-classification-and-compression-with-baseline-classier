@@ -177,7 +177,7 @@ Autoencoders are effective for image compression and representation learning, bu
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/cifar10-autoencoder-classification.git
+git clone https://github.com/VivekSingh1201/autoencoder-classification-and-compression-with-baseline-classier.git
 cd cifar10-autoencoder-classification
 ```
 
